@@ -1,0 +1,6 @@
+{
+  "fhir_base": "https://hapi.fhir.org/baseR4",
+  "patient_a_clear_approval": "132013438",
+  "patient_b_step_therapy_gap": "132013439",
+  "patient_c_mtx_contraindicated": "132013440"
+}
