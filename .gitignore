@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Env
+.env
+!.env.example
+
+# Vector store (generated, not committed)
+**/chroma_db/
+
+# Node
+node_modules/
+
+# .NET
+**/bin/
+**/obj/
+*.user
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code internal
+.claude/
+claude.txt
+hackathoninfo.txt
