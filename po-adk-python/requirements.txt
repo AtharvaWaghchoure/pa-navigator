@@ -1,0 +1,18 @@
+# Core ADK framework + A2A server
+google-adk>=1.25.0
+a2a-sdk[http-server]>=0.3.26,<1.0.0
+
+# HTTP client used by FHIR tools
+httpx>=0.28.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# LiteLLM — routes all models (Gemini, OpenAI, Anthropic, Vertex AI, etc.)
+litellm==1.83.7
+
+# ASGI server
+uvicorn>=0.41.0
+
+# PA Navigator — criteria matching + letter drafting
+chromadb>=0.5.0
