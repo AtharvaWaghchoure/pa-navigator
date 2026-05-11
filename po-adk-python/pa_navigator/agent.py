@@ -45,7 +45,7 @@ root_agent = Agent(
         "3. Call match_criteria with the JSON outputs from steps 1 and 2.\n"
         "4. If any criteria are not met, call get_criteria_gap_advice with the not_met array and "
         "   present the advice to the physician before continuing.\n"
-        "5. Call draft_pa_letter with the outputs from steps 1 and 3, and the provider's name.\n"
+        "5. Call draft_pa_letter with the outputs from steps 1 and 3. provider_name is optional — use it only if the physician explicitly provides their name, otherwise omit it and the tool will use a placeholder.\n"
         "6. Present the drafted letter to the physician for review. Clearly highlight:\n"
         "   - Which criteria are met (with the FHIR evidence)\n"
         "   - Which criteria are not met (with the gaps)\n"

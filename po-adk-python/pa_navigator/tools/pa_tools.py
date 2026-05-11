@@ -313,7 +313,7 @@ Output schema:
 }"""
 
 
-def draft_pa_letter(pa_context_json: str, match_result_json: str, provider_name: str, tool_context: ToolContext) -> dict:
+def draft_pa_letter(pa_context_json: str, match_result_json: str, tool_context: ToolContext, provider_name: str = "[Physician Name, MD]") -> dict:
     """
     Generates a physician-reviewable prior authorization justification letter.
 
