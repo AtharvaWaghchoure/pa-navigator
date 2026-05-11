@@ -24,6 +24,8 @@ from pa_navigator.tools import (
 from shared.fhir_hook import extract_fhir_context
 
 _model_name = os.getenv("PA_NAVIGATOR_MODEL", "gemini-2.5-flash")
+if "/" in _model_name:
+    _model_name = _model_name.split("/", 1)[1]
 _model = Gemini(model=_model_name)
 
 root_agent = Agent(
