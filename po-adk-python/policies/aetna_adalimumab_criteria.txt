@@ -1,0 +1,88 @@
+AETNA CLINICAL POLICY BULLETIN
+Prior Authorization Criteria for Adalimumab (Humira)
+Policy Number: 0578 | Effective Date: 2024-01-01
+Applies to: Rheumatoid Arthritis (RA)
+
+---
+
+Criterion 1: Confirmed Diagnosis
+The member must have a confirmed diagnosis of moderate-to-severe active rheumatoid arthritis (RA), defined as:
+- 6 or more swollen joints AND 6 or more tender joints, OR
+- DAS28-CRP score >= 3.2 (moderate disease activity), OR
+- Physician attestation of moderate-to-severe disease activity
+Applicable ICD-10 codes: M05.xx (Seropositive rheumatoid arthritis), M06.xx (Other rheumatoid arthritis)
+The diagnosis must be confirmed by a board-certified rheumatologist or specialist.
+
+---
+
+Criterion 2: Prescriber Qualification
+Adalimumab must be prescribed by or in consultation with a board-certified rheumatologist or a specialist with documented expertise in the treatment of inflammatory arthritis. Primary care prescriptions are acceptable only with documented rheumatology consultation on file.
+
+---
+
+Criterion 3: Prior DMARD Therapy — Step Therapy Requirement
+The member must have documented inadequate response to, or intolerance of, at least ONE conventional disease-modifying antirheumatic drug (DMARD) at an adequate dose for an adequate duration:
+- Methotrexate: minimum 15 mg/week orally or subcutaneously for at least 3 months (12 weeks)
+- Sulfasalazine: minimum 2,000 mg/day for at least 3 months
+- Hydroxychloroquine: minimum 400 mg/day for at least 3 months
+- Leflunomide: minimum 20 mg/day for at least 3 months
+Inadequate response is defined as: persistent moderate-to-severe disease activity (DAS28 >= 3.2 or >= 6 swollen/tender joints) despite adequate DMARD therapy, OR discontinuation due to dose-limiting toxicity or intolerance.
+Documentation must include: drug name, dose, duration of therapy, and the specific reason for discontinuation or inadequate response.
+Step therapy may be waived if ALL conventional DMARDs are contraindicated with supporting documentation.
+
+---
+
+Criterion 4: Tuberculosis Screening
+Latent tuberculosis (TB) screening must have been performed within 12 months prior to initiating adalimumab therapy:
+- Negative QuantiFERON-TB Gold (IGRA) test result, OR
+- Negative tuberculin skin test (TST/PPD) result, OR
+- Documentation of prior treatment for latent TB infection (LTBI)
+Members with a positive TB screening must have documentation of appropriate treatment for LTBI prior to initiating adalimumab.
+Active tuberculosis is an absolute contraindication to adalimumab therapy.
+
+---
+
+Criterion 5: Absence of Contraindications
+The member must NOT have any of the following contraindications to adalimumab:
+- Active serious infection, including active tuberculosis, bacterial sepsis, invasive fungal infections, or other opportunistic infections
+- New York Heart Association (NYHA) Class III or Class IV congestive heart failure (CHF)
+- Demyelinating disease including multiple sclerosis or optic neuritis
+- Active hepatitis B infection (HBsAg positive) without concurrent antiviral prophylaxis
+- Known hypersensitivity to adalimumab or any component of the formulation
+- Active malignancy (other than successfully treated non-melanoma skin cancer)
+
+---
+
+Criterion 6: Combination Therapy Requirement
+Adalimumab in combination with methotrexate (10-25 mg/week) is preferred over monotherapy, as evidence demonstrates superior efficacy with combination treatment.
+Adalimumab monotherapy is acceptable when methotrexate is contraindicated or not tolerated.
+If adalimumab is requested as monotherapy, documentation must include the specific reason methotrexate cannot be co-prescribed (e.g., hepatotoxicity, renal impairment, pregnancy, patient refusal with documented counseling).
+
+---
+
+INITIAL AUTHORIZATION DURATION: 6 months
+
+---
+
+Criterion 7: Continuation — Documented Clinical Response (For Renewals)
+For continuation authorization, the member must demonstrate a clinical response to adalimumab therapy:
+- At least 20% improvement from baseline in both swollen and tender joint counts (ACR20 response), OR
+- Clinically meaningful improvement in DAS28-CRP score (reduction >= 1.2 from baseline), OR
+- Physician-documented assessment of meaningful clinical improvement and functional benefit
+Failure to achieve clinical response after 6 months of therapy should prompt reassessment of the treatment plan.
+Documentation must be submitted with each renewal request.
+
+---
+
+RENEWAL AUTHORIZATION DURATION: 12 months
+
+---
+
+REQUIRED DOCUMENTATION FOR ALL REQUESTS
+1. Medical records confirming diagnosis and baseline disease severity (joint counts or DAS28 score)
+2. Documentation of prior DMARD therapy: drug name, dose, duration, response, and reason for discontinuation
+3. TB screening results within the past 12 months (QuantiFERON or TST result)
+4. Prescribing physician specialty and board certification (or rheumatology consultation note)
+5. Relevant laboratory results (RF, anti-CCP antibodies, CBC, liver function tests, creatinine)
+6. For renewals: most recent clinical assessment documenting response to adalimumab
+7. If requesting monotherapy: documentation of methotrexate contraindication or intolerance

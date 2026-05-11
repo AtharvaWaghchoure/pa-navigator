@@ -30,6 +30,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the full source tree — shared/, healthcare_agent/, general_agent/, orchestrator/.
 COPY . .
 
+# Build ChromaDB vector store from policy files at image build time.
+RUN python vector_store/embed_policies.py
+
 # Cloud Run automatically sets PORT to 8080; override for local Docker testing.
 ENV PORT=8080
 
