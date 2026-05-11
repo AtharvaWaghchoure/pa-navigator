@@ -13,9 +13,9 @@ async def find_patient_id(
     lastName: Annotated[str | None, Field(description="The patient's last name. This is optional")] = None,  # noqa: N803
     ctx: Context = None,
 ) -> str:
-    patients = await _patient_searcher(ctx, firstName, lastName)
+    patients = await _find_patient(ctx, firstName, lastName)
     if not patients:
-        patients = await _patient_searcher(ctx, lastName, firstName)
+        patients = await _find_patient(ctx, lastName, firstName)
 
     if patients and len(patients) > 1:
         return create_text_response("More than one patient was found. Provide more details.", is_error=True)
